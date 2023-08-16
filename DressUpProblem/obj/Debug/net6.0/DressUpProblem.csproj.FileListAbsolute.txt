@@ -1,0 +1,15 @@
+/Users/anshulnarang/C#Projects/DressUpProblem/DressUpProblem/bin/Debug/net6.0/DressUpProblem
+/Users/anshulnarang/C#Projects/DressUpProblem/DressUpProblem/bin/Debug/net6.0/DressUpProblem.deps.json
+/Users/anshulnarang/C#Projects/DressUpProblem/DressUpProblem/bin/Debug/net6.0/DressUpProblem.runtimeconfig.json
+/Users/anshulnarang/C#Projects/DressUpProblem/DressUpProblem/bin/Debug/net6.0/DressUpProblem.dll
+/Users/anshulnarang/C#Projects/DressUpProblem/DressUpProblem/bin/Debug/net6.0/DressUpProblem.pdb
+/Users/anshulnarang/C#Projects/DressUpProblem/DressUpProblem/obj/Debug/net6.0/DressUpProblem.csproj.AssemblyReference.cache
+/Users/anshulnarang/C#Projects/DressUpProblem/DressUpProblem/obj/Debug/net6.0/DressUpProblem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anshulnarang/C#Projects/DressUpProblem/DressUpProblem/obj/Debug/net6.0/DressUpProblem.AssemblyInfoInputs.cache
+/Users/anshulnarang/C#Projects/DressUpProblem/DressUpProblem/obj/Debug/net6.0/DressUpProblem.AssemblyInfo.cs
+/Users/anshulnarang/C#Projects/DressUpProblem/DressUpProblem/obj/Debug/net6.0/DressUpProblem.csproj.CoreCompileInputs.cache
+/Users/anshulnarang/C#Projects/DressUpProblem/DressUpProblem/obj/Debug/net6.0/DressUpProblem.dll
+/Users/anshulnarang/C#Projects/DressUpProblem/DressUpProblem/obj/Debug/net6.0/refint/DressUpProblem.dll
+/Users/anshulnarang/C#Projects/DressUpProblem/DressUpProblem/obj/Debug/net6.0/DressUpProblem.pdb
+/Users/anshulnarang/C#Projects/DressUpProblem/DressUpProblem/obj/Debug/net6.0/DressUpProblem.genruntimeconfig.cache
+/Users/anshulnarang/C#Projects/DressUpProblem/DressUpProblem/obj/Debug/net6.0/ref/DressUpProblem.dll
